@@ -1,0 +1,70 @@
+# =============== Unity standard ignores ===============
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Generated files
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# IDE
+.vscode/
+.vs/
+*.user
+*.userprefs
+
+# Unity auto-generated
+*.db
+*.opendb
+*.bak
+*.orig
+*.moved-aside
+*.apk
+*.aab
+
+# Rider
+.idea/
+*.iml
+
+# Crash logs
+sysinfo.txt
+
+# Asset meta files
+# (Unity needs meta files, so KEEP *.meta)
+# Do NOT ignore them!
+
+# Build results
+Build/
+Builds/
+
+# Cache
+*.unitypackage
+.glb
+*.obj
+*.fbx
+*.psd
+
+# Addressables
+/Assets/AddressableAssetsData/*
+
+# Collaborate
+.collabignore
+.collab/
+
+# Other
+*.DS_Store

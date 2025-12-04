@@ -1,0 +1,13 @@
+using UnityEngine;
+
+public class Coin : MonoBehaviour
+{
+    private void OnTriggerEnter2D(Collider2D col)
+    {
+        if (col.CompareTag("Player"))
+        {
+            ScoreManager.instance.AddCoins(1);
+            Destroy(gameObject);
+        }
+    }
+}

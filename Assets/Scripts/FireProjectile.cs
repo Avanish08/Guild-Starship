@@ -1,0 +1,26 @@
+using UnityEngine;
+
+public class FireProjectile : MonoBehaviour
+{
+    public float speed = 10f;
+    public float lifetime = 3f;
+
+    void Start()
+    {
+        Destroy(gameObject, lifetime);
+    }
+
+    void Update()
+    {
+        transform.Translate(Vector2.right * speed * Time.deltaTime);
+    }
+
+    private void OnTriggerEnter2D(Collider2D col)
+    {
+        if (col.CompareTag("Obstacle"))
+        {
+            Destroy(col.gameObject);
+            Destroy(gameObject);
+        }
+    }
+}

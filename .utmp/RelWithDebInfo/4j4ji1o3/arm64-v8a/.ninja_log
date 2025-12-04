@@ -1,0 +1,23 @@
+# ninja log v5
+2	5576	7864485070521114	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	8acea746e7abe8ba
+161	1601	7864485030447222	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	f8ac9e75552c3da5
+34	4733	7864485060990122	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	2b0c412a10869481
+1604	2353	7864485037059959	C:/Users/ojhaa/Documents/UNITY/Guild Starship/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4j4ji1o3/obj/arm64-v8a/libswappywrapper.so	2de76b245411a3d5
+60	4809	7864485061352899	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	fcd55b403206a03a
+137	5209	7864485066758660	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7c511eb6c87deca2
+15	4824	7864485061923391	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	4138157c97145ff
+24	4985	7864485064423011	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	4faac6d8068ab72
+74	4829	7864485062839458	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	d9285190ffd7bd96
+44	5333	7864485068020110	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	ebe6e25ae92ca7aa
+5577	5695	7864485071824422	C:/Users/ojhaa/Documents/UNITY/Guild Starship/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4j4ji1o3/obj/arm64-v8a/libgame.so	d4e4227c01931cb7
+227	959	7864487227020751	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	f8ac9e75552c3da5
+960	1156	7864487229068294	C:/Users/ojhaa/Documents/UNITY/Guild Starship/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4j4ji1o3/obj/arm64-v8a/libswappywrapper.so	2de76b245411a3d5
+191	3501	7864487251205362	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	2b0c412a10869481
+153	3504	7864487252052618	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	fcd55b403206a03a
+105	3548	7864487252602165	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	4138157c97145ff
+178	3588	7864487253085510	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	d9285190ffd7bd96
+131	3658	7864487253949852	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	4faac6d8068ab72
+215	3715	7864487254515691	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7c511eb6c87deca2
+203	3908	7864487256526991	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	ebe6e25ae92ca7aa
+168	4007	7864487257490368	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	8acea746e7abe8ba
+4008	4140	7864487258887001	C:/Users/ojhaa/Documents/UNITY/Guild Starship/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4j4ji1o3/obj/arm64-v8a/libgame.so	d4e4227c01931cb7
